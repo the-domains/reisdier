@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reizen naar wildlife en de vrije natuur]]></title>
+        <description><![CDATA[Reizen naar wildlife en de vrije natuur]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 10:22:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[De open dierentuin van Kangaroo Island]]></title>
+            <description><![CDATA[<article><h1>De open dierentuin van Kangaroo Island</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/354d8576-ee9e-4ace-855e-996d49b81018.jpg"></article>]]></description>
+            <link>undefinedde-open-dierentuin-van-kangaroo-island/index.html</link>
+            <guid isPermaLink="false">5cf70156-456c-4a00-a47f-6c88a7b24fe3</guid>
+            <pubDate>Thu, 14 Apr 2016 10:22:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
