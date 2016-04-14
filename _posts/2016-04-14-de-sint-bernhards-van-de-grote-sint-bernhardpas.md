@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.\L\L"
-datePublished: '2016-04-14T11:06:01.733Z'
-dateModified: '2016-04-14T11:05:53.720Z'
+datePublished: '2016-04-14T16:45:13.874Z'
+dateModified: '2016-04-14T16:44:37.322Z'
 title: 'De sint-bernhards van de Grote Sint-Bernhardpas '
 author: []
 sourcePath: _posts/2016-04-14-de-sint-bernhards-van-de-grote-sint-bernhardpas.md
@@ -31,7 +31,7 @@ Nog steeds worden ze 's zomers op de pas gehouden. Hoewel hun winterverblijf in 
 
 De Grote Sint-Bernhardpas was eeuwenlang de enige manier om van West-Europa naar Italië te komen. De Italiaanse geestelijke Bernard van Aosta, naar wie de pas is vernoemd, bouwde er in de elfde eeuw een reizigershotel. Hier konden vermoeide reizigers bijkomen van de zware, gevaarlijke klim naar 2500 meter hoogte. Dit hospice is inmiddels zo'n duizend jaar continue in gebruik. 
 > 
-> Onze deur heeft geen slot.
+> Onze deur heeft geen slot
 
 Hoewel het sinds de bouw van de Sint-Bernhardtunnel een stuk rustiger geworden is op de pas, kloppen er nog dagelijks wandelaars aan. 
 "Onze deur heeft geen slot", vertelt José Mittaz, die het hospice met tientallen bedden beheert. "Iedereen kan hier onderdak krijgen." Tenminste, als je de pas op bent komen lopen en liefst ook op bedevaart bent naar Rome. Want aan allemaal toeristen die hier voor de lol willen komen slapen heeft het hospice geen behoefte. "Daar is het hotel aan de overkant van de straat voor." 
@@ -41,7 +41,7 @@ Dit is een spirituele plek, wil Mittaz benadrukken, ook heel geschikt voor lasti
 
   Zelfs 's winters komen er tegenwoordig nog mensen de pas op gelopen, zelfs gefietst, verbaast Mittaz zich. Mensen worden steeds onvoorzichtiger, fronst hij. "Deze winter nog twee jongens die totaal onvoorbereid hier aankwamen terwijl we tot onze oren in de sneeuw zaten. Ze wilden de pas over naar Italië, waar langs de weg ravijnen zijn en het zicht heel slecht was. Mensen zijn zelf verantwoordelijk, maar ik heb ze aangeraden dat toch maar een andere keer te doen."  
 
-> Een jonge hond krijgt allerlei stresstesten.
+> Een jonge hond krijgt allerlei stresstesten
 
 Voor onbezonnen avonturiers als deze werd de sint-bernhard gefokt. Toch is niet elke sint-bernhard geschikt voor opsporing. "Voordat we aan de training beginnen, onderwerpen we een jonge hond aan allerlei stresstesten", vertelt Hölzer. Een hond moet in de eerste plaats niet snel schrikken, dus wordt gekeken wat hij doet bij onweer, vuurwerk, openklappende paraplu's. Pas als dat hem allemaal koud laat, wordt met de echte training begonnen.  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e99f3155-277e-4c61-b984-a96e576af7c8.jpg)
