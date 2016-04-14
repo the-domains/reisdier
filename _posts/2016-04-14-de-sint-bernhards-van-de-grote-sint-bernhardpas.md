@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Hoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.\L\L"
-datePublished: '2016-04-14T16:45:13.874Z'
-dateModified: '2016-04-14T16:44:37.322Z'
+description: "Het is een harde, onverbiddelijke omgeving, met een sfeer alsof het niet bij deze planeet hoort. De sneeuw ligt er zeven maanden per jaar, tot diep in de zomer. Vaak is de bergpas in wolken gehuld. Al vroeg werden hier op de Grote Sint-Bernhardpas honden gefokt om mensen te zoeken en te helpen. Na lang fokken kregen ze ergens in de negentiende eeuw de vorm die iedereen kent: de sint-bernhard, enorm groot en zwaar, met waterende ogen en een onvoorwaardelijke trouw.\L\_"
+datePublished: '2016-04-14T17:44:48.328Z'
+dateModified: '2016-04-14T17:40:41.521Z'
 title: 'De sint-bernhards van de Grote Sint-Bernhardpas '
 author: []
 sourcePath: _posts/2016-04-14-de-sint-bernhards-van-de-grote-sint-bernhardpas.md
@@ -22,8 +22,9 @@ url: de-sint-bernhards-van-de-grote-sint-bernhardpas/index.html
 _type: Article
 
 ---
-Hoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f138fa1-4a81-40df-9fb3-e7ac9f6cab82.jpg)
+# De sint-bernhards van de Grote Sint-Bernhardpas ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f138fa1-4a81-40df-9fb3-e7ac9f6cab82.jpg)
+
+## Hoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.  
 
 Het is een harde, onverbiddelijke omgeving, met een sfeer alsof het niet bij deze planeet hoort. De sneeuw ligt er zeven maanden per jaar, tot diep in de zomer. Vaak is de bergpas in wolken gehuld. Al vroeg werden hier op de Grote Sint-Bernhardpas honden gefokt om mensen te zoeken en te helpen. Na lang fokken kregen ze ergens in de negentiende eeuw de vorm die iedereen kent: de sint-bernhard, enorm groot en zwaar, met waterende ogen en een onvoorwaardelijke trouw.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f165694-eed5-4b98-b0c8-51a8434e0735.jpg)
 
