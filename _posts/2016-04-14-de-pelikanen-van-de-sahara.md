@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: De rivier de Senegal is een pitstop voor miljoenen vogels op hun reis van en naar Europa.  Massa’s vogels tanken bij in het zoete water in het Djoudj National Bird Sanctuary op hun reis over de uitgestrekte woestijn.
-datePublished: '2016-04-14T17:01:59.132Z'
-dateModified: '2016-04-14T17:01:51.875Z'
+datePublished: '2016-04-14T17:03:17.029Z'
+dateModified: '2016-04-14T17:02:43.602Z'
 title: De pelikanen van de Sahara
 author: []
+sourcePath: _posts/2016-04-14-de-pelikanen-van-de-sahara.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-de-pelikanen-van-de-sahara.md
-published: true
 url: de-pelikanen-van-de-sahara/index.html
 _type: Article
 
