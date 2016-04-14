@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Saint-Louis ligt aan de monding van de Senegal, de rivier die het land zijn naam gaf. De rivier druppelt dwars door de Sahara naar zee en bij de monding vormen zich wetlands. Een plek die trekvogels van en naar Europa zich geen twee keer hoeven laten vertellen. Met honderdduizenden tanken ze hier bij, de laatste pitstop voor de uitgestrekte woestijn.'
-datePublished: '2016-04-14T17:38:11.378Z'
-dateModified: '2016-04-14T17:37:35.981Z'
+datePublished: '2016-04-14T17:44:41.434Z'
+dateModified: '2016-04-14T17:40:49.504Z'
 title: Pelikanen in de Sahara
 author: []
 sourcePath: _posts/2016-04-14-de-pelikanen-van-de-sahara.md
