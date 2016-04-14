@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.\L\L"
-datePublished: '2016-04-14T11:04:45.123Z'
-dateModified: '2016-04-14T11:04:35.808Z'
+datePublished: '2016-04-14T11:06:01.733Z'
+dateModified: '2016-04-14T11:05:53.720Z'
 title: 'De sint-bernhards van de Grote Sint-Bernhardpas '
 author: []
 sourcePath: _posts/2016-04-14-de-sint-bernhards-van-de-grote-sint-bernhardpas.md
