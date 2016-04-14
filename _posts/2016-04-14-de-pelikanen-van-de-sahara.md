@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: De rivier de Senegal is een pitstop voor miljoenen vogels op hun reis van en naar Europa.  Massa’s vogels tanken bij in het zoete water in het Djoudj National Bird Sanctuary op hun reis over de uitgestrekte woestijn.
-datePublished: '2016-04-14T17:03:17.029Z'
-dateModified: '2016-04-14T17:02:43.602Z'
+description: 'Saint-Louis ligt aan de monding van de Senegal, de rivier die het land zijn naam gaf. De rivier druppelt dwars door de Sahara naar zee en bij de monding vormen zich wetlands. Een plek die trekvogels van en naar Europa zich geen twee keer hoeven laten vertellen. Met honderdduizenden tanken ze hier bij, de laatste pitstop voor de uitgestrekte woestijn.'
+datePublished: '2016-04-14T17:09:53.733Z'
+dateModified: '2016-04-14T17:09:36.161Z'
 title: De pelikanen van de Sahara
 author: []
 sourcePath: _posts/2016-04-14-de-pelikanen-van-de-sahara.md
@@ -22,8 +22,9 @@ url: de-pelikanen-van-de-sahara/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8e51205-62d8-4a79-bc63-f070c9cdc0d2.jpg)
+
 ## De rivier de Senegal is een pitstop voor miljoenen vogels op hun reis van en naar Europa.  Massa's vogels tanken bij in het zoete water in het Djoudj National Bird Sanctuary op hun reis over de uitgestrekte woestijn.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8217cb5e-aa1e-4913-be1e-430b673f20df.jpg)
 
 Saint-Louis ligt aan de monding van de Senegal, de rivier die het land zijn naam gaf. De rivier druppelt dwars door de Sahara naar zee en bij de monding vormen zich wetlands. Een plek die trekvogels van en naar Europa zich geen twee keer hoeven laten vertellen. Met honderdduizenden tanken ze hier bij, de laatste pitstop voor de uitgestrekte woestijn.
 
@@ -32,13 +33,13 @@ Dus hoe prachtig Saint-Louis ook is: ik wil graag vogels zien. Of ze er ook zijn
 > Ben je er klaar voor?
 
 Aan de rand van het park stappen we over in een motorbootje en varen we over meanderende rivier. Aan de oever groeit knalgroen riet, daarboven strekt zich een knalblauwe hemel uit. Op boomtakken boven het water zien we een visarend, witte en grijze reigers, tientallen slangenhalsvogels en op de oever een zonnende nijlkrokodil. Er komen hier zo'n vierhonderd soorten vogels voor en hoewel het geen doen is ze allemaal te zien, houd ik een lijstje bij. Visarend? Check! Afrikaanse lepelaar? Check! Purperreiger? Check!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5010dfe3-af3a-4c9d-816f-a5e1c669a360.jpg)
 
 Plots vraagt mijn gids lachend: "ben je er klaar voor?"
 
 "Waarvoor?" vraag ik met lichte argwaan in mijn stem.
 
 "Voor de pelikanen, natuurlijk. Achter deze bocht zitten er duizenden."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5010dfe3-af3a-4c9d-816f-a5e1c669a360.jpg)
 
 Ik kijk hem aan alsof hij zijn verstand verloren heeft, want tot dusver verraadt de kabbelende stilte niets en ook de omgeving geeft niets prijs. Maar door de plotselinge, indringende geur van vogelpoep kijk ik toch vol verwachting naar wat er achter de bocht in de rivier ligt. Kom op, doorvaren.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13154cda-067d-4595-94ac-b2732b0dc1cd.jpg)
