@@ -5,25 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "De sint-bernhards van de Grote Sint-Bernhardpas\n\nHoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.\L\L"
-datePublished: '2016-04-14T11:04:04.788Z'
-dateModified: '2016-04-14T11:02:59.380Z'
+description: "Hoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.\L\L"
+datePublished: '2016-04-14T11:04:45.123Z'
+dateModified: '2016-04-14T11:04:35.808Z'
 title: 'De sint-bernhards van de Grote Sint-Bernhardpas '
 author: []
+sourcePath: _posts/2016-04-14-de-sint-bernhards-van-de-grote-sint-bernhardpas.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-de-sint-bernhards-van-de-grote-sint-bernhardpas.md
-published: true
 url: de-sint-bernhards-van-de-grote-sint-bernhardpas/index.html
 _type: Article
 
 ---
 Hoog in de Alpen, op de grens van Zwitserland en Italië, ligt de Sint-Bernhardpas. Hier leeft de meest heldhaftige hondensoort ter wereld.  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eea6e79a-68cc-4e04-8bfb-56ac9ae6efbf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f138fa1-4a81-40df-9fb3-e7ac9f6cab82.jpg)
 
 Het is een harde, onverbiddelijke omgeving, met een sfeer alsof het niet bij deze planeet hoort. De sneeuw ligt er zeven maanden per jaar, tot diep in de zomer. Vaak is de bergpas in wolken gehuld. Al vroeg werden hier op de Grote Sint-Bernhardpas honden gefokt om mensen te zoeken en te helpen. Na lang fokken kregen ze ergens in de negentiende eeuw de vorm die iedereen kent: de sint-bernhard, enorm groot en zwaar, met waterende ogen en een onvoorwaardelijke trouw.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f165694-eed5-4b98-b0c8-51a8434e0735.jpg)
 
