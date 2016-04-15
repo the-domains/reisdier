@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Het is een van de favoriete wildlifebestemmingen van sir Richard Attenborough. En het ligt niet eens aan de andere kant van de wereld.
-datePublished: '2016-04-15T16:18:12.419Z'
-dateModified: '2016-04-15T16:17:23.331Z'
-title: ''
+description: 'Northumberland is een vreemd stuk Engeland. Het heeft geen grote, beroemde steden of bekende nationale parken. In plaats daarvan heeft het vooral leegte en eindeloze vergezichten over golvende heuvels, die in de lente felgeel kleuren van het lijnzaad. '
+datePublished: '2016-04-15T16:21:55.102Z'
+dateModified: '2016-04-15T16:21:54.613Z'
+title: 'De Farne Eilanden: superbestemming aan de Noordzee'
 author: []
+sourcePath: _posts/2016-04-15-het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric.md
-published: true
 url: het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric/index.html
 _type: Article
 
 ---
+# De Farne Eilanden: superbestemming aan de Noordzee
+
 **Het is een van de favoriete wildlifebestemmingen van sir Richard Attenborough. En het ligt niet eens aan de andere kant van de wereld.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6c1dc96-e223-4f78-8ca4-c95305332d56.jpg)
 
