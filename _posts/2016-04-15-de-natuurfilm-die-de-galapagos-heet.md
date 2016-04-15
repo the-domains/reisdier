@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Natuur is op de Galapagos Eilanden zo dichtbij, dat je er bijna letterlijk over struikelt. Nergens anders op aarde zijn de dieren zo weinig geïnteresseerd in mensen.'
-datePublished: '2016-04-15T14:28:00.265Z'
-dateModified: '2016-04-15T14:27:54.543Z'
+datePublished: '2016-04-15T14:48:45.090Z'
+dateModified: '2016-04-15T14:48:44.461Z'
 title: De natuurfilm die de Galapagos heet
 author: []
+sourcePath: _posts/2016-04-15-de-natuurfilm-die-de-galapagos-heet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-de-natuurfilm-die-de-galapagos-heet.md
-published: true
 url: de-natuurfilm-die-de-galapagos-heet/index.html
 _type: Article
 
@@ -25,7 +25,6 @@ _type: Article
 # De natuurfilm die de Galapagos heet
 
 **Natuur is op de Galapagos Eilanden zo dichtbij, dat je er bijna letterlijk over struikelt. Nergens anders op aarde zijn de dieren zo weinig geïnteresseerd in mensen.**
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccdb4336-0616-445c-bd00-9ebdded21a96.jpg)
 
 Een slapende zeeleeuw midden op het pad wijkt niet als ik langs hem loop, een broedende Jan-van-Gent kijkt stoïcijns voor zich uit en een leguaan snuit nogmaals z'n neus. Slechts de indringende geur van vogel- en zeeleeuwenpoep doet me beseffen dat ik niet naar een natuurfilm kijk, maar er onderdeel van uitmaak. Dit is echt en dit zijn de Galapagos Eilanden, waar de natuur overal is en zich niets van je aantrekt. 
@@ -56,6 +55,4 @@ KLM vliegt rechtstreeks vanaf Schiphol naar Quito en Guayaquil. Vanuit beide ste
 
 Verschillende Nederlandse reisorganisaties bieden rondreizen in Ecuador aan waarin ook de Galapagoseilanden opgenomen zijn. Mocht je het zelf willen uitzoeken, dan boek je het makkelijkst bij een van de vele reisbureautjes in het toeristische centrum van Quito een vlucht en de cruise. Je kunt onderhandelen over de prijs. Cruises kunnen vanaf 1000 euro voor vijf dagen geboekt worden. Er wordt onderscheid gemaakt tussen o.a. Toerist class, First class en Luxe class. Alle boten vertrekken vanaf de haven van Puerto Ayora.
 
-**  
-  
-**
+****
