@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Reisdier - Reizen naar wildlife en de vrije natuur]]></title>
         <description><![CDATA[Reisdier - Reizen naar wildlife en de vrije natuur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reisdier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 14:13:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 14:13:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reisdier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Koraalrif en oerwoud in Queensland]]></title>
+            <description><![CDATA[<article><h1>Koraalrif en oerwoud in Queensland</h1><p>Voor de deur ligt het Groot Barrièrerif en bij de achterdeur het subtropische regenwoud. Het hoge noorden van Queensland in Australië is Werelderfgoed, met bijzondere en beschermde diersoorten. En vooral veel nattigheid.</p></article>]]></description>
+            <link>https://thegrid.ai/reisdier/koraalrif-en-oerwoud-in-queensland/index.html</link>
+            <guid isPermaLink="false">f4817032-fd2c-4971-bc06-443f356ef8e9</guid>
+            <pubDate>Fri, 15 Apr 2016 14:12:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[De open dierentuin van Kangaroo Island]]></title>
             <description><![CDATA[<article><h1>De open dierentuin van Kangaroo Island</h1><p>Kangaroo Island wordt wel het Galapagos van Australië genoemd. Het hele eiland, onder de kust van de deelstaat South Australia, is een grote dierentuin zonder hekken.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c1479ab-0ef4-4a94-80b8-c2a0e7603f6e.jpg"></article>]]></description>
-            <link>undefinedde-open-dierentuin-van-kangaroo-island/index.html</link>
+            <link>https://thegrid.ai/reisdier/de-open-dierentuin-van-kangaroo-island/index.html</link>
             <guid isPermaLink="false">b70052df-541c-418b-94c9-ca728bad2549</guid>
             <pubDate>Fri, 15 Apr 2016 14:12:34 GMT</pubDate>
         </item>
