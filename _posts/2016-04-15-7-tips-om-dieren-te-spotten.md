@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "De jungle is vol geluiden. Overal klinken prrrtt's, iiiieeew's en toktoktokken. maar dieren zie ik niet. Ik kijk om me heen, zoek, speur, tuur, maar ik ontdek niets. Zelfs een reiger op een tak zie ik pas als de gids hem aanwijst. Hoe doet hij dat? 7 trucs voor wilde dieren spotten in Costa Rica."
-datePublished: '2016-04-15T14:23:20.361Z'
-dateModified: '2016-04-15T14:23:14.723Z'
+datePublished: '2016-04-15T14:43:23.537Z'
+dateModified: '2016-04-15T14:41:29.710Z'
 title: 7 tips om dieren te spotten
 author: []
+sourcePath: _posts/2016-04-15-7-tips-om-dieren-te-spotten.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-7-tips-om-dieren-te-spotten.md
-published: true
 url: 7-tips-om-dieren-te-spotten/index.html
 _type: Article
 
@@ -25,7 +25,6 @@ _type: Article
 # 7 tips om dieren te spotten
 
 **De jungle is vol geluiden. Overal klinken prrrtt's, iiiieeew's en toktoktokken. maar dieren zie ik niet. Ik kijk om me heen, zoek, speur, tuur, maar ik ontdek niets. Zelfs een reiger op een tak zie ik pas als de gids hem aanwijst. Hoe doet hij dat? 7 trucs voor wilde dieren spotten in Costa Rica.**
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b98e90d0-e993-45a9-924c-29838d69c60c.jpg)
 
 Hoe kan het dat een gids een reiger op een tak ziet zitten en ik niet? Zoals je misschien wel weet zijn reigers best grote vogels, ook in Costa Rica. Heb ik een bril nodig? Zou mijn gids soms laserogen hebben? Bezit hij bijzondere gaven, die alleen gidsen hebben? Niets van dat alles. 
@@ -37,7 +36,6 @@ Ricardo werkt al jaren als gids in Tortuguero, een natuurpark in het noordoosten
 **Truc 1: Ken de vormen.**
 
 Heel simpel eigenlijk! Je moet weten hoe de dieren eruit zien. De vorm, de grootte, de kleur. Dat is belangrijk, want pas als je dat weet, weet je waarnaar je moet zoeken.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2098f609-e463-4ba5-8124-c80b1f083a62.jpg)
 
 **Truc 2: Ken het leefgebied.**
@@ -47,7 +45,6 @@ Ricardo weet precies van ieder dier in welke planten, struiken en bomen de diere
 **Truc 3: Ken de geluiden.**
 
 Elk dier maakt een ander geluid. Door het dier het kennen, weet je ook welk geluid het maakt. En door goed te luisteren, weet je waar het geluid vandaan komt. Je hoeft dan alleen maar naar die kant te gaan en goed om je heen te kijken.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/526c07da-fe5d-410b-9193-64a9c8bd17ee.jpg)
 
 **Truc 4: Ken de leefgewoontes. **
@@ -57,7 +54,6 @@ Dieren hebben allemaal hun eigen gewoontes. Er zijn dieren die het liefst hoog i
 **Truc 5: Kijk naar afwijkingen.**
 
 Oké, je weet naar welke bomen en planten je moet kijken. En dan? Dan kijk je naar afwijkende vormen in een boom of een struik. Misschien zie je wel een gekke bobbel in de boom hangen. Bobbels horen over het algemeen niet in bomen; je gaat beter kijken, want het zou zomaar een luiaard of een aap kunnen zijn.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7371ae59-c3b6-4522-ab23-13e4e85c99fb.jpg)
 
 **Truc 6: Kijk naar bewegingen.**
