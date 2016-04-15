@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The kolibrie place to be is Mindo, in het Zuid-Amerikaanse land Ecuador. Doordat de wolken tussen de bergen blijven hangen vormt zich hier een nevelwoud. Het is een habitat waar kolibries zich bijzonder lekker in voelen. '
-datePublished: '2016-04-15T14:33:46.422Z'
-dateModified: '2016-04-15T14:33:39.745Z'
+datePublished: '2016-04-15T15:36:45.912Z'
+dateModified: '2016-04-15T15:36:39.947Z'
 title: De kolibries van het nevelwoud
 author: []
+sourcePath: _posts/2016-04-15-de-kolibries-van-het-nevelwoud.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-de-kolibries-van-het-nevelwoud.md
-published: true
 url: de-kolibries-van-het-nevelwoud/index.html
 _type: Article
 
@@ -28,14 +28,15 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27ddca86-5089-401e-b8eb-2d473de26c4d.jpg)
 
 Slechts een smalle, psychedelisch kronkelende weg leidt naar het nevelwouddorp Mindo, hoog in de Andes. Geen kolibries te zien natuurlijk - die hebben zich teruggetrokken in het subtropische regenwoud om pas bij daglicht weer tevoorschijn te komen. Het  enige dat nu rondvliegt zijn muggen en andere insecten en die wil ik het liefst vermijd. De klamboe is dan ook geen overbodige luxe. Ik houd van natuur, maar ik trek een lijn bij mijn bed.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d0c755a-f8a5-42c9-9559-42d2a76d64c4.jpg)
 
 Vol verwachting klopt mijn hart als ik vroeg in de ochtend naar buiten stap. De tuin van het hostel blijkt een ware oase te zijn van orchideeën, bromelia's en felgekleurde plastic bakjes in verschillende maten en vormen. Ze hangen en staan overal tussen de felgekleurde platen en bloemen. Van de kolibries ontbreekt nog ieder spoor.
 
-In de open buitenkeuken vind ik Maria. Zij is druk bezig met het klaarmaken van het ontbijt voor de VIP's van de tuin: de kolibries waar het dorpje zo beroemd om is. Voorzichtig druppelt ze suikerwater in de plastic bakjes en hangt ze weer op hun plek terug. Verwonderd ga ik zitten en wacht af. 
+In de open buitenkeuken vind ik Maria. Zij is druk bezig met het klaarmaken van het ontbijt voor de VIP's van de tuin: de kolibries waar het dorpje zo beroemd om is. Voorzichtig druppelt ze suikerwater in de plastic bakjes en hangt ze weer op hun plek terug. Verwonderd ga ik zitten en wacht af. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24eef517-5338-43ee-a569-07e4831eb72b.jpg)
 
 Een luid gezoem is het eerste dat ik hoor. Maar waar ik een dikke tevreden bromvlieg verwacht, vliegt er een aantal bontgekleurde vogeltjes door de lucht. Metaalachtig groene, glanzend rode, blauwe en smaragdgroene vogeltjes flitsen voorbij tussen de toch al felle kleuren van de tropentuin.
 
-Het is een komen en gaan van de piepkleine vogels, die niet veel groter zijn dan een abrikoos. Ze drinken, ze helikopteren, ze maken ruzie (want hé, don't mess with my sugarwater) en... vliegen achteruit. Totaal overdonderd wrijf ik een aantal keer in mijn ogen en vraag ik Maria of ik wellicht een dubbele espresso kan krijgen. Sterkere koffie lijkt me op dit moment beter. 
+Het is een komen en gaan van de piepkleine vogels, die niet veel groter zijn dan een abrikoos. Ze drinken, ze helikopteren, ze maken ruzie (want hé, don't mess with my sugarwater) en... vliegen achteruit. Totaal overdonderd wrijf ik een aantal keer in mijn ogen en vraag ik Maria of ik wellicht een dubbele espresso kan krijgen. Sterkere koffie lijkt me op dit moment beter. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17224dfa-bbe4-49e9-8ecc-db46c01a8bb1.jpg)
 
 Als je net zoals ik gewend bent aan mussen, duiven en merels, zijn kolibries kleine supervogeltjes. Kolibries zijn zo gebouwd dat ze vooruit, naar opzij, achteruit (ECHT), omhoog en omlaag kunnen. En ze zijn sneller dan snel. Hun vleugels kunnen wel 200 maal per seconden op en neer slaan, met een gemiddelde van 50\. Mijn ogen kunnen de razendsnelle vleugelslagen totaal niet bijbenen.
 
@@ -47,15 +48,11 @@ De tuin is slechts een opwarmertje voor wat het subtropisch nevelwoud nog meer t
 
 Een keer met je ogen knipperen en hij is gevlogen. Als een magisch wezen dat je alleen vanuit je ooghoeken kan zien.
 
-Checklist
+## Checklist
 
-Mindo is ongeveer 2,5 tot 3 uur rijden vanaf de hoofdstad Quito.
-
-Je kunt het best een vogelgids in de arm nemen. Die wijst in het nevelwoud alle bijzondere vogels aan.
-
-De kolibries zijn het hele jaar in Mindo te vinden.
-
-Het nevelwoud van Mindo.
+* Mindo is ongeveer 2,5 tot 3 uur rijden vanaf de hoofdstad Quito.
+* Je kunt het best een vogelgids in de arm nemen. Die wijst in het nevelwoud alle bijzondere vogels aan.
+* De kolibries zijn het hele jaar in Mindo te vinden.
 
 Een kolibrie die rustig op een tak zit is best wel bijzonder.
 
