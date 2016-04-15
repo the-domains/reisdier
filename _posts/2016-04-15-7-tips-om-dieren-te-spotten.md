@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "De jungle is vol geluiden. Overal klinken prrrtt's, iiiieeew's en toktoktokken. maar dieren zie ik niet. Ik kijk om me heen, zoek, speur, tuur, maar ik ontdek niets. Zelfs een reiger op een tak zie ik pas als de gids hem aanwijst. Hoe doet hij dat? 7 trucs voor wilde dieren spotten in Costa Rica."
-datePublished: '2016-04-15T14:48:50.692Z'
-dateModified: '2016-04-15T14:43:30.205Z'
+datePublished: '2016-04-15T15:40:18.911Z'
+dateModified: '2016-04-15T15:38:05.074Z'
 title: 7 tips om dieren te spotten
 author: []
 sourcePath: _posts/2016-04-15-7-tips-om-dieren-te-spotten.md
