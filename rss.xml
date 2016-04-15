@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reisdier - Reizen naar wildlife en de vrije natuur]]></title>
+        <description><![CDATA[Reisdier - Reizen naar wildlife en de vrije natuur]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 14:13:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[De open dierentuin van Kangaroo Island]]></title>
+            <description><![CDATA[<article><h1>De open dierentuin van Kangaroo Island</h1><p>Kangaroo Island wordt wel het Galapagos van Australië genoemd. Het hele eiland, onder de kust van de deelstaat South Australia, is een grote dierentuin zonder hekken.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c1479ab-0ef4-4a94-80b8-c2a0e7603f6e.jpg"></article>]]></description>
+            <link>undefinedde-open-dierentuin-van-kangaroo-island/index.html</link>
+            <guid isPermaLink="false">b70052df-541c-418b-94c9-ca728bad2549</guid>
+            <pubDate>Fri, 15 Apr 2016 14:12:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
