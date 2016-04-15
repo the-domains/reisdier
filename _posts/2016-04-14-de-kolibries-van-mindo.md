@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Slechts een smalle, psychedelisch kronkelende weg leidt naar het nevelwouddorp Mindo, hoog in de Andes. Geen kolibries te zien natuurlijk - die hebben zich teruggetrokken in het subtropische regenwoud om pas bij daglicht weer tevoorschijn te komen. Het \_enige dat nu rondvliegt zijn muggen en andere insecten en die wil ik het liefst vermijd. De klamboe is dan ook geen overbodige luxe. Ik houd van natuur, maar ik trek een lijn bij mijn bed."
-datePublished: '2016-04-14T17:44:45.332Z'
-dateModified: '2016-04-14T17:40:56.492Z'
+datePublished: '2016-04-15T11:10:20.602Z'
+dateModified: '2016-04-15T11:09:57.357Z'
 title: Kolibries in het nevelwoud
 author: []
 sourcePath: _posts/2016-04-14-de-kolibries-van-mindo.md
