@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Lapland is een van de laatste ongetemde wildernissen van Europa. In de zomer, wanneer de zon niet ondergaat, kun je in National Park Oulanka 24 uur per dag genieten van de ruige natuur.'
-datePublished: '2016-04-15T14:54:51.174Z'
-dateModified: '2016-04-15T14:54:46.009Z'
+description: 'Lapland is een van de laatste ongetemde wildernissen van Europa. In de zomer, wanneer de zon niet ondergaat, kun je in National Park Oulanka 24 uur per dag genieten van de ruige natuur. '
+datePublished: '2016-04-15T15:31:34.638Z'
+dateModified: '2016-04-15T15:31:24.356Z'
 title: De beren van Fins Lapland
 author: []
+sourcePath: _posts/2016-04-15-de-beren-van-fins-lapland.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-de-beren-van-fins-lapland.md
-published: true
 url: de-beren-van-fins-lapland/index.html
 _type: Article
 
@@ -45,16 +45,5 @@ Er zitten fikse exemplaren tussen, weet berenspotter Tuomo Pirttimaa, die ons op
 Spiedend naar elke schaduw en dicht bij elkaar lopend, bereiken we twintig minuten later de veilige spottershut. Die kijkt uit over een route die geliefd is bij beren. Nog geen tien minuten later komt de eerste beer al het bos uitlopen, al snel gevolgd door meer. "Ze hebben trek", legt Pirttimaa uit, die vijftig meter verderop een varkenskarkas heeft klaargelegd om de beren te lokken. "De vroege zomer is de tijd voor seks in Finland en daarna zijn ze uitgehongerd." ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec877413-38c7-4acd-8084-eca8001308a4.jpg)
 
 Inderdaad storten de beren zich één voor één op het karkas, volgens een rangorde die met dreigen en vechten wordt vastgesteld. Maar het grootste deel gaat naar een enorme berin, die niet eens de moeite hoeft te nemen om te grommen of de anderen rennen al weg. "Dat is de baas", weet Pirttimaa. "De baas van Oulanka."
-
-**  
-**
-
-Oulanka is het meest bijzondere park van Finland.
-
-De 'baas van Oulanka' (links) laat zien wie de top-bear is.
-
-Thuis heeft Nordman 200 husky's.
-
-Genieten van de natuur, en van miljoenen muggen.
 
 ****
