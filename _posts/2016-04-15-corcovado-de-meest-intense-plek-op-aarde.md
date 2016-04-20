@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Het is biologisch gezien ‘de meest intense plek op aarde’, aldus National Geographic. Nergens anders vind je zo veel soorten dieren op zo'n klein oppervlak. Corcovado National Park is misschien wel het meest bijzondere natuurgebied in Costa Rica."
-datePublished: '2016-04-15T15:41:33.881Z'
-dateModified: '2016-04-15T15:40:13.990Z'
+datePublished: '2016-04-20T12:35:05.317Z'
+dateModified: '2016-04-20T12:34:54.615Z'
 title: 'Corcovado, de meest intense plek op aarde'
 author: []
 sourcePath: _posts/2016-04-15-corcovado-de-meest-intense-plek-op-aarde.md
@@ -45,9 +45,9 @@ Maar ondanks dat hij zo groot is al een tank, is een tapir moeilijk te spotten. 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7be2eb4-0783-4d7e-8fb0-3b5d2e0b2093.jpg)
 
 Nee, het is geen tapir. Voor onze ogen trekt een grote groep coati's voorbij. De witsnuitberen scharrelen met hun lange neuzen over de junglevloer, wroeten onder boomstammen, in nesten en andere interessante holen, op zoek naar eten. Net zoals andere kleine beren zijn het alleseters. Spinnen, duizendpoten, insecten, muizen kikkers, hagedissen, noten en vruchten: er staat van alles op het menu. Vandaag zijn het landkrabben. We horen overal een smakelijk gekraak, van verse krabben die niet op tijd konden wegkomen.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66f4e390-44f0-48d7-a600-c33cdf83772d.jpg)
 
 Dan ineens is er grote onrust. Binnen een oogwenk schieten alle coati's in de bomen, hun instinct bij gevaar. Even is het onduidelijk waarom de beertjes zo in paniek zijn. Dan volgen we hun blik en zien we de reden: er staat een mannetje recht tegenover een groot vrouwtje. "Om inteelt te voorkomen worden jonge mannetjes op een gegeven moment uit de groep verjaagd", fluistert de gids. "Dit mannetje heeft de boodschap nog niet begrepen."
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66f4e390-44f0-48d7-a600-c33cdf83772d.jpg)
 
 > De coati's vinden elkaar veel interessanter dan jou
 
@@ -67,9 +67,9 @@ Nooit geweten dat ik zo blij kon zijn met een paar dikke harige billen met een s
 
 ****
 
-* Je kunt in Corcovado alleen overnachten in een rangerstation, waar ook de parkwachters wonen. Het enige dorp in de buurt met goedkope hostels is Drake. Ook Drake ligt afgelegen en is alleen bereikbaar met de boot vanuit het dorpje Sierpe.
-* Als je niet veel tijd hebt kun je ook op het vasteland een tour boeken, bijvoorbeeld bij [Dolphin Tour][0] in Uvita. Op de dag van de tour ben je dan wel wat langer onderweg. De tours vanaf het vasteland gaan bovendien niet naar het hart van Corcovado, maar naar de niet-zo-wilde randjes. Met een beetje geluk zie je ook daar een hoop dieren.
-* En vergeet de zee niet. In de baai van Drake leven wel 25 soorten dolfijnen. Soms vormen die 'megapods' van wel 200 dolfijnen. Op een dolfijnentocht zwemmen ze soms met je boot mee en springen ze uit het water. De beste dolfijnentour in Drake is die van [Divine Dolphin][1]. De Amerikaanse dolfijnenfreak Sierra Goodman doet hier al zo'n 20 jaar onderzoek naar dolfijnen en weet tijdens de tocht alles te vertellen.[][1]****
+* **
+  * Je kunt in Corcovado alleen overnachten in een rangerstation, waar ook de parkwachters wonen. Het enige dorp in de buurt met goedkope hostels is Drake. Ook Drake ligt afgelegen en is alleen bereikbaar met de boot vanuit het dorpje Sierpe.
+  * Als je niet veel tijd hebt kun je ook op het vasteland een tour boeken, bijvoorbeeld bij Dolphin Tour in Uvita. Op de dag van de tour ben je dan wel wat langer onderweg. De tours vanaf het vasteland gaan bovendien niet naar het hart van Corcovado, maar naar de niet-zo-wilde randjes. Met een beetje geluk zie je ook daar een hoop dieren.
+  * En vergeet de zee niet. In de baai van Drake leven wel 25 soorten dolfijnen. Soms vormen die 'megapods' van wel 200 dolfijnen. Op een dolfijnentocht zwemmen ze soms met je boot mee en springen ze uit het water. De beste dolfijnentour in Drake is die van Divine Dolphin. De Amerikaanse dolfijnenfreak Sierra Goodman doet hier al zo'n 20 jaar onderzoek naar dolfijnen en weet tijdens de tocht alles te vertellen.[][0]**
 
-[0]: http://www.dolphintourcostarica.com/
-[1]: http://divinedolphin.com/
+[0]: http://divinedolphin.com/
