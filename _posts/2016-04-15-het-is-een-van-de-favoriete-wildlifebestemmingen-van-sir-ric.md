@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Northumberland is een vreemd stuk Engeland. Het heeft geen grote, beroemde steden of bekende nationale parken. In plaats daarvan heeft het vooral leegte en eindeloze vergezichten over golvende heuvels, die in de lente felgeel kleuren van het lijnzaad. '
-datePublished: '2016-04-15T16:21:55.102Z'
-dateModified: '2016-04-15T16:21:54.613Z'
-title: 'De Farne Eilanden: superbestemming aan de Noordzee'
+datePublished: '2016-04-20T12:43:19.647Z'
+dateModified: '2016-04-20T12:43:03.203Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-15-het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric.md
 published: true
@@ -22,7 +22,7 @@ url: het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric/index.html
 _type: Article
 
 ---
-# De Farne Eilanden: superbestemming aan de Noordzee
+# De Farne Eilanden: een superbestemming aan de Noordzee
 
 **Het is een van de favoriete wildlifebestemmingen van sir Richard Attenborough. En het ligt niet eens aan de andere kant van de wereld.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6c1dc96-e223-4f78-8ca4-c95305332d56.jpg)
@@ -45,7 +45,7 @@ De extreem natte zomer van 2015 zorgde voor een dip. Er werden veel nestholen ov
 
 Elke dag zetten negen rangers van de National Trust zich voor de eilanden in. Het is een koorddans, waarin de rangers evenwicht moeten vinden tussen toerisme en natuurbescherming. Ze moeten bezoekers de schoonheid van de eilanden laten zien en ze informeren, maar er ook voor zorgen dat die de broedvogels niet storen. 
 
-In het hoogseizoen, wanneer de kuikens net uit hun ei zijn gekropen, moeten de rangers ervoor zorgen dat de 400 paar menselijk voeten die dagelijks uit de boten stappen, niets plattrappen. In de zomer krijgen de eilanden tienduizenden bezoekers over de vloer, maar over het algemeen gaat dat goed.  "De mensen houden over het algemeen goed rekening met nestelende zeevogels", aldus Wilkie. "Ze weten dat ze zijn te gast in de habitat van deze vogels en houden zich aan de richtlijnen." De Farne Eilanden zijn daarmee een rots in de branding: zowel voor de natuur als voor de mensen die ervan willen genieten.
+In het hoogseizoen, wanneer de kuikens net uit hun ei zijn gekropen, moeten de rangers ervoor zorgen dat de 400 paar menselijk voeten die dagelijks uit de boten stappen, niets plattrappen. In de zomer krijgen de eilanden tienduizenden bezoekers over de vloer, maar over het algemeen gaat dat goed. "De mensen houden over het algemeen goed rekening met nestelende zeevogels", aldus Wilkie. "Ze weten dat ze zijn te gast in de habitat van deze vogels en houden zich aan de richtlijnen." De Farne Eilanden zijn daarmee een rots in de branding: zowel voor de natuur als voor de mensen die ervan willen genieten.
 
 Checklist
 
