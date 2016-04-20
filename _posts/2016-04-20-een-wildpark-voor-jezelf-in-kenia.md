@@ -6,18 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Een safari is een van de mooiste reizen die je in je leven kan maken. Dat weten ook honderdduizenden andere toeristen die de populaire natuurgebieden van Afrika platlopen. De truc is om naar de onbekende parken te gaan: met een beetje geluk heb je die helemaal voor jezelf.'
-datePublished: '2016-04-20T12:37:44.440Z'
-dateModified: '2016-04-20T12:37:35.722Z'
+datePublished: '2016-04-20T12:42:39.920Z'
+dateModified: '2016-04-20T12:42:19.070Z'
 title: Een wildpark voor jezelf in Kenia
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-20-een-wildpark-voor-jezelf-in-kenia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-een-wildpark-voor-jezelf-in-kenia.md
-published: true
 url: een-wildpark-voor-jezelf-in-kenia/index.html
 _type: Article
 
@@ -42,6 +44,7 @@ Ooit liepen er honderden neushoorns door Meru. Maar in de jaren tachtig werden z
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b50e4db-6fcb-4d09-843b-d1fd56181318.jpg)
 
 Maar alhoewel de rangers van de Kenia Wildlife Service inmiddels zijn uitgerust met een verkenningsvliegtuig, is de strijd nog niet gewonnen. De laatste tijd neemt het stropen weer fors toe. Er lijkt een verband te zijn met de bouw van wegen door de Chinezen in het noorden van Kenia. Hoe dan ook: vandaag geen neushoorns, ze houden zich schuil in de struiken. "Neem het ze eens kwalijk", haalt Dechauffour zijn schouders op.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f974ca33-3906-4777-b01a-8ec8f2559ce6.jpg)
 
 Dan maar op zoek naar leeuwen, die andere reden waarom Meru ooit vermaard werd. Dat gebeurde nadat de twee Britse biologen Joy en George Adamson hier in de jaren vijftig onderzoek deden. Toen George Adamson in 1956 uit zelfverdediging een leeuwin doodschoot die op hem afstormde, vermoedde hij dat ze dat deed om haar welpen te beschermen. Toen hij die even later inderdaad vond, nam hij ze mee naar zijn kamp om ze dan maar zelf op te voeden. Na een half jaar werden er twee naar de dierentuin in Rotterdam gezonden. 
 
@@ -51,19 +54,5 @@ De derde, Elsa, werd maandenlang door het echtpaar getraind om zelf te kunnen ov
 Na een uur of wat hebben we er een paar te pakken. Zomaar langs de kant van de weg liggen er twee een siesta te houden onder een struik. Het klikken van de cameras vinden ze maar irritant. Lui slepen ze zich naar een wat afgelegener struik, waar de auto niet kan komen. Ze wachten op een kudde zebra's, die zich windopwaarts langzaam een weg hiernaartoe graast.
 
 Maar de zon gaat al bijna onder, dus een 'kill' maken we vandaag niet meer mee. Dan maar naar het spartaanse kamp van de Adamsons, bovenop een rotsig heuveltje met uitzicht over zowat het hele park. De plek is ideaal voor een sundowner, een echte safaritraditie waarbij je niet veel meer doet dan een drankje drinken en genieten van de zonsondergang. Met uitzicht over Mount Kenia, gehuld in nevelen.
-
-****
-
-In het uitgestrekte park zie je nauwelijks andere safarigangers.
-
-Rustig wachten twee leeuwen hun kans af.
-
-Impala's, het fastfood van de savanne.
-
-Een olifantenstier komt ons even uitchecken. 
-
-Ook de zeldzame Afrikaanse eland leeft in Meru.
-
-Buffels kijken ons nieuwsgierig aan.
 
 ****
