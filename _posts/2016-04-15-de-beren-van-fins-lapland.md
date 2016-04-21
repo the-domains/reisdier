@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lapland is een van de laatste ongetemde wildernissen van Europa. In de zomer, wanneer de zon niet ondergaat, kun je in National Park Oulanka 24 uur per dag genieten van de ruige natuur. '
-datePublished: '2016-04-15T15:31:34.638Z'
-dateModified: '2016-04-15T15:31:24.356Z'
+datePublished: '2016-04-21T12:03:38.016Z'
+dateModified: '2016-04-20T12:38:29.120Z'
 title: De beren van Fins Lapland
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-15-de-beren-van-fins-lapland.md
 published: true
 authors: []
