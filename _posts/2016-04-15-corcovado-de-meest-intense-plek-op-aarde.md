@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Het is biologisch gezien ‘de meest intense plek op aarde’, aldus National Geographic. Nergens anders vind je zo veel soorten dieren op zo'n klein oppervlak. Corcovado National Park is misschien wel het meest bijzondere natuurgebied in Costa Rica."
-datePublished: '2016-04-20T12:35:05.317Z'
-dateModified: '2016-04-20T12:34:54.615Z'
+datePublished: '2016-04-21T12:15:19.101Z'
+dateModified: '2016-04-21T12:15:14.321Z'
 title: 'Corcovado, de meest intense plek op aarde'
 author: []
 sourcePath: _posts/2016-04-15-corcovado-de-meest-intense-plek-op-aarde.md
