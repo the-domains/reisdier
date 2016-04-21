@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Met zijn 7000 eilanden heeft het van alles en nog wat, van groene jungle tot blauwe onderwaterwereld. Toch staan de Filipijnen niet bekend als een natuurbestemming. Onterecht, want er valt veel te genieten.'
-datePublished: '2016-04-21T12:14:48.221Z'
-dateModified: '2016-04-21T12:14:38.742Z'
+datePublished: '2016-04-21T12:17:34.177Z'
+dateModified: '2016-04-21T12:17:28.882Z'
 title: Op de Filippijnen krijg je altijd een liedje
 author:
   - name: ''
@@ -47,7 +47,6 @@ Spookdiertjes hebben zulke grote ogen nodig omdat ze 's nachts jagen. Maar omdat
 Ze mogen er dan klein en schattig uitzien, het zijn ontzettend goede jagers. Spookdiertjes hebben hele lange achterpootjes en kunnen meer dan 40 keer hun lichaamslengte springen. Ze wachten meestal op een tak in een struik stilletjes op hun prooi. Dan bespringen die dan met een goed getimede aanval. Ze jagen op die manier op insecten, reptielen zoals hagedissen en slangen en kikkers. Ze plukken zelfs vogels en vleermuizen recht uit de lucht. Het zijn echte carnivoren. Planten hoeven ze niet, alleen maar vlees.
 
 Helaas worden spookdiertjes bedreigd. Ze komen maar op een paar plaatsen in Azië in het wild voor. Omdat het oerwoud wordt gekapt verdwijnen hun leefgebieden en die hebben ze nodig om zich voort te planten. Het is namelijk moeilijk om ze te fokken zoals met andere bedreigde dieren, omdat je spookdiertjes niet gevangen kunt houden. Ook kunnen ze niet alleen leven. Zonder soortgenoten om zich heen plegen ze zelfmoord, door hun hoofd kapot te slaan...het zijn letterlijk sociale dieren.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05165c19-2911-4218-8e69-a713a26d750f.jpg)
 
 Met 7000 eilanden kun je er vanuit gaan dat er altijd wel een strand in de buurt is. En dat klopt. Zowat elk eilandje heeft stranden, maar het mooiste ligt op Boracay, de meest populaire strandbestemming van het land. Dit piepkleine eilandje heeft een strand van zeven kilometer wit, fijn zand en ondiep, lichtblauw water. Net hierachter ligt een strandboulevard met hotels, duikshops, bars en restaurants onder een lange rij palmen. Het wordt nergens té toeristisch, want er mag geen betonnen hoogbouw worden gepleegd en de mensen zijn niet opdringerig. Zo moet het twintig jaar geleden in Phuket (Thailand) of Kuta (Bali) zijn geweest: tropisch relaxed.
@@ -55,10 +54,12 @@ Met 7000 eilanden kun je er vanuit gaan dat er altijd wel een strand in de buurt
 
 Alle 7000-en-nog-wat eilanden worden omringd door koraalrif, dat maakt de Filipijnen een van de beste plaatsen ter wereld om te duiken. Meest opvallend is het koraal in alle soorten en kleuren, hard en zacht. Bijna alle van de 500 bekende koraalsoorten komen hier voor. De riffen zijn ook in goede staat: geen kaalslag (door toerisme en overbevissing) of verbleking (door het opwarmen van het zeewater). Behalve miljoenen kleurrijke vissen zie je bijna gegarandeerd baracuda's, dolfijnen, mantaroggen en zeeschildpadden. Af en toe komen er ook walvishaaien langs. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/721b3eff-56e9-4ee8-8223-ed56ad64a60e.jpg)
 
-De meeste duikplaatsen en --scholen liggen zo'n beetje in het mid-den van de eilandengroep. Negros, Puerto Galero, Boracay en Bohol zijn het meest toegankelijk en hebben goed materiaal en westerse instructeurs. Leren duiken is er bovendien spotgoedkoop, dus je krijgt echt waar voor je geld. Met een gratis glimlach erbij. En misschien een liedje.
+De meeste duikplaatsen en --scholen liggen zo'n beetje in het mid-den van de eilandengroep. Negros, Puerto Galero, Boracay en Bohol zijn het meest toegankelijk en hebben goed materiaal en westerse instructeurs. Leren duiken is er bovendien spotgoedkoop, dus je krijgt echt waar voor je geld. Met een gratis glimlach erbij. En misschien een liedje. 
 
 ## Checklist
 
-* De Filipijnen hebben zelf geen maatschappij die op Nederland vliegt. Je moet dus vliegen via een buurland, zoals Hongkong (Cathay Pacific) of Taiwan (Eva Air). 
-* Binnenlands bestaat dan wel weer een goed netwerk met moderne vliegtuigen en op elk groter eiland een vliegveld. En goedkoop: een enkeltje van Manila naar strandbestemming Boracay bijvoorbeeld krijg je vanaf twintig euro. Maatschappijen zijn Air Philippines, Cebu Pacific Air en Philippine Airlines. 
-* Nog goedkoper is de veerboot, die --- omdat bijna elke stad aan de kust ligt --- overal met alles verbindt.
+De Filipijnen hebben zelf geen maatschappij die op Nederland vliegt. Je moet dus vliegen via een buurland, zoals Hongkong (Cathay Pacific) of Taiwan (Eva Air).
+
+Binnenlands bestaat dan wel weer een goed netwerk met moderne vliegtuigen en op elk groter eiland een vliegveld. En goedkoop: een enkeltje van Manila naar strandbestemming Boracay bijvoorbeeld krijg je vanaf twintig euro. Maatschappijen zijn Air Philippines, Cebu Pacific Air en Philippine Airlines.
+
+Nog goedkoper is de veerboot, die --- omdat bijna elke stad aan de kust ligt --- overal met alles verbindt.
