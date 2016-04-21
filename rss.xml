@@ -4,8 +4,15 @@
         <description><![CDATA[Reisdier - Reizen naar wildlife en de vrije natuur]]></description>
         <link>https://thegrid.ai/reisdier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 12:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 12:16:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reisdier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Koraalrif en oerwoud in Queensland]]></title>
+            <description><![CDATA[<article><h1>Koraalrif en oerwoud in Queensland</h1><p>Voor de deur ligt het Groot Barrièrerif en bij de achterdeur het subtropische regenwoud. Het hoge noorden van Queensland in Australië is Werelderfgoed, met bijzondere en beschermde diersoorten. En vooral veel nattigheid.</p></article>]]></description>
+            <link>https://thegrid.ai/reisdier/koraalrif-en-oerwoud-in-queensland/index.html</link>
+            <guid isPermaLink="false">f4817032-fd2c-4971-bc06-443f356ef8e9</guid>
+            <pubDate>Thu, 21 Apr 2016 12:15:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corcovado, de meest intense plek op aarde]]></title>
             <description><![CDATA[<article><h1>Corcovado, de meest intense plek op aarde</h1><p>Het is biologisch gezien ‘de meest intense plek op aarde’, aldus National Geographic. Nergens anders vind je zo veel soorten dieren op zo'n klein oppervlak. Corcovado National Park is misschien wel het meest bijzondere natuurgebied in Costa Rica.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/reisdier/de-natuurfilm-die-de-galapagos-heet/index.html</link>
             <guid isPermaLink="false">2c0e92c0-fcb1-4238-a1c4-09b5daa59326</guid>
             <pubDate>Fri, 15 Apr 2016 14:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Koraalrif en oerwoud in Queensland]]></title>
-            <description><![CDATA[<article><h1>Koraalrif en oerwoud in Queensland</h1><p>Voor de deur ligt het Groot Barrièrerif en bij de achterdeur het subtropische regenwoud. Het hoge noorden van Queensland in Australië is Werelderfgoed, met bijzondere en beschermde diersoorten. En vooral veel nattigheid.</p></article>]]></description>
-            <link>https://thegrid.ai/reisdier/koraalrif-en-oerwoud-in-queensland/index.html</link>
-            <guid isPermaLink="false">f4817032-fd2c-4971-bc06-443f356ef8e9</guid>
-            <pubDate>Fri, 15 Apr 2016 14:12:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
