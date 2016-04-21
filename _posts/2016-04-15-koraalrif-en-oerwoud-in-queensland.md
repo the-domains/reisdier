@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Voor de deur ligt het Groot Barrièrerif en bij de achterdeur het subtropische regenwoud. Het hoge noorden van Queensland in Australië is Werelderfgoed, met bijzondere en beschermde diersoorten. En vooral veel nattigheid.'
-datePublished: '2016-04-15T14:12:34.313Z'
-dateModified: '2016-04-15T14:12:19.780Z'
+datePublished: '2016-04-21T12:15:38.098Z'
+dateModified: '2016-04-15T15:46:15.014Z'
 title: Koraalrif en oerwoud in Queensland
 author: []
+sourcePath: _posts/2016-04-15-koraalrif-en-oerwoud-in-queensland.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-koraalrif-en-oerwoud-in-queensland.md
-published: true
 url: koraalrif-en-oerwoud-in-queensland/index.html
 _type: Article
 
