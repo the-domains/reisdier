@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Met zijn 7000 eilanden heeft het van alles en nog wat, van groene jungle tot blauwe onderwaterwereld. Toch staan de Filipijnen niet bekend als een natuurbestemming. Onterecht, want er valt veel te genieten.'
-datePublished: '2016-04-15T15:34:31.610Z'
-dateModified: '2016-04-15T15:34:15.514Z'
-title: De sprookjesnatuur van de Filippijnen
-author: []
+datePublished: '2016-04-21T12:14:48.221Z'
+dateModified: '2016-04-21T12:14:38.742Z'
+title: Op de Filippijnen krijg je altijd een liedje
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-15-de-sprookjesnatuur-van-de-filippijnen.md
 published: true
 authors: []
@@ -22,7 +24,7 @@ url: de-sprookjesnatuur-van-de-filippijnen/index.html
 _type: Article
 
 ---
-# De sprookjesnatuur van de Filippijnen
+# Op de Filippijnen krijg je altijd een liedje
 
 **Met zijn 7000 eilanden heeft het van alles en nog wat, van groene jungle tot blauwe onderwaterwereld. Toch staan de Filipijnen niet bekend als een natuurbestemming. Onterecht, want er valt veel te genieten.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9567cc44-eb29-42ef-89c2-eac19582978b.jpg)
