@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Het is biologisch gezien ‘de meest intense plek op aarde’, aldus National Geographic. Nergens anders vind je zo veel soorten dieren op zo'n klein oppervlak. Corcovado National Park is misschien wel het meest bijzondere natuurgebied in Costa Rica."
-datePublished: '2016-04-21T12:15:19.101Z'
-dateModified: '2016-04-21T12:15:14.321Z'
+datePublished: '2016-04-21T12:20:52.508Z'
+dateModified: '2016-04-21T12:20:44.496Z'
 title: 'Corcovado, de meest intense plek op aarde'
 author: []
 sourcePath: _posts/2016-04-15-corcovado-de-meest-intense-plek-op-aarde.md
@@ -65,11 +65,13 @@ Nooit geweten dat ik zo blij kon zijn met een paar dikke harige billen met een s
 
 ## Checklist
 
-****
+Je kunt in Corcovado alleen overnachten in een rangerstation, waar ook de parkwachters wonen. Het enige dorp in de buurt met goedkope hostels is Drake. Ook Drake ligt afgelegen en is alleen bereikbaar met de boot vanuit het dorpje Sierpe.
+
+Als je niet veel tijd hebt kun je ook op het vasteland een tour boeken, bijvoorbeeld bij Dolphin Tour in Uvita. Op de dag van de tour ben je dan wel wat langer onderweg. De tours vanaf het vasteland gaan bovendien niet naar het hart van Corcovado, maar naar de niet-zo-wilde randjes. Met een beetje geluk zie je ook daar een hoop dieren.
+
+En vergeet de zee niet. In de baai van Drake leven wel 25 soorten dolfijnen. Soms vormen die 'megapods' van wel 200 dolfijnen. Op een dolfijnentocht zwemmen ze soms met je boot mee en springen ze uit het water. De beste dolfijnentour in Drake is die van Divine Dolphin. De Amerikaanse dolfijnenfreak Sierra Goodman doet hier al zo'n 20 jaar onderzoek naar dolfijnen en weet tijdens de tocht alles over de dieren te vertellen.
 
 * **
-  * Je kunt in Corcovado alleen overnachten in een rangerstation, waar ook de parkwachters wonen. Het enige dorp in de buurt met goedkope hostels is Drake. Ook Drake ligt afgelegen en is alleen bereikbaar met de boot vanuit het dorpje Sierpe.
-  * Als je niet veel tijd hebt kun je ook op het vasteland een tour boeken, bijvoorbeeld bij Dolphin Tour in Uvita. Op de dag van de tour ben je dan wel wat langer onderweg. De tours vanaf het vasteland gaan bovendien niet naar het hart van Corcovado, maar naar de niet-zo-wilde randjes. Met een beetje geluk zie je ook daar een hoop dieren.
-  * En vergeet de zee niet. In de baai van Drake leven wel 25 soorten dolfijnen. Soms vormen die 'megapods' van wel 200 dolfijnen. Op een dolfijnentocht zwemmen ze soms met je boot mee en springen ze uit het water. De beste dolfijnentour in Drake is die van Divine Dolphin. De Amerikaanse dolfijnenfreak Sierra Goodman doet hier al zo'n 20 jaar onderzoek naar dolfijnen en weet tijdens de tocht alles te vertellen.[][0]**
+  * [][0]**
 
 [0]: http://divinedolphin.com/
