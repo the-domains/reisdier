@@ -4,7 +4,7 @@
         <description><![CDATA[Reisdier - Reizen naar wildlife en de vrije natuur]]></description>
         <link>https://thegrid.ai/reisdier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 14:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 14:11:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reisdier/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Orang-oetan gooit met bananen ]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/reisdier/orang-oetan-gooit-met-bananen/index.html</link>
             <guid isPermaLink="false">3f2f2ac5-6e66-4ddc-b544-76ef360ad793</guid>
             <pubDate>Tue, 26 Apr 2016 14:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 tips om dieren te spotten]]></title>
-            <description><![CDATA[<article><h1>7 tips om dieren te spotten</h1><p>De jungle is vol geluiden. Overal klinken prrrtt's, iiiieeew's en toktoktokken. maar dieren zie ik niet. Ik kijk om me heen, zoek, speur, tuur, maar ik ontdek niets. Zelfs een reiger op een tak zie ik pas als de gids hem aanwijst. Hoe doet hij dat? 7 trucs voor wilde dieren spotten in Costa Rica.</p></article>]]></description>
-            <link>https://thegrid.ai/reisdier/7-tips-om-dieren-te-spotten/index.html</link>
-            <guid isPermaLink="false">94cd4995-cf11-428c-83fe-eb2938bdf776</guid>
-            <pubDate>Tue, 26 Apr 2016 14:11:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Een wildpark voor jezelf in Kenia]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/reisdier/de-beren-van-fins-lapland/index.html</link>
             <guid isPermaLink="false">6d6fbc1d-246d-4982-863f-9846c51f3003</guid>
             <pubDate>Thu, 21 Apr 2016 12:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[De pony’s en wolfshonden van Dartmoor]]></title>
+            <description><![CDATA[<article><h1>De pony’s en wolfshonden van Dartmoor</h1><h2>Checklist</h2><p>Het wonderlijke Dartmoor National Park, in het zuidwesten van Groot-Brittannië, is het territorium van de Dartmoor Pony. En in de verraderlijke moerassen en mistige veengronden schijnt ook de verschrikkelijke wolfshond te schuilen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bedd0de4883e256e1a14f53e2c08cb02878c35d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/reisdier/de-ponys-en-wolfshonden-van-dartmoor/index.html</link>
+            <guid isPermaLink="false">04566322-d4b2-470c-9d47-89669fe6f03b</guid>
+            <pubDate>Thu, 21 Apr 2016 12:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
