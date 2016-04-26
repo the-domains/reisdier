@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 'Northumberland is een vreemd stuk Engeland. Het heeft geen grote, beroemde steden of bekende nationale parken. In plaats daarvan heeft het vooral leegte en eindeloze vergezichten over golvende heuvels, die in de lente felgeel kleuren van het lijnzaad. '
-datePublished: '2016-04-21T12:09:46.506Z'
-dateModified: '2016-04-21T12:09:43.097Z'
+datePublished: '2016-04-26T14:08:39.097Z'
+dateModified: '2016-04-26T14:08:33.675Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric/index.html
 _type: Article
 
@@ -29,11 +29,11 @@ _type: Article
 
 Northumberland is een vreemd stuk Engeland. Het heeft geen grote, beroemde steden of bekende nationale parken. In plaats daarvan heeft het vooral leegte en eindeloze vergezichten over golvende heuvels, die in de lente felgeel kleuren van het lijnzaad. 
 
-Je krijgt hier het gevoel alsof dit stukje Great Britain vergeten is. Een rit naar de kust van Northumberland voelt alsof je teruggaat in de tijd. Kleine landweggetjes door weilanden, omzoomd door typisch Engelse heggen, kronkelen naar Seahouses, een kustplaatsje waar de tijd in de jaren zestig stil is gezet. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e534f4f0-c12a-4ed9-b1b0-76f7b2cd9887.jpg)
+Je krijgt hier het gevoel alsof dit stukje Great Britain vergeten is. Een rit naar de kust van Northumberland voelt alsof je teruggaat in de tijd. Kleine landweggetjes door weilanden, omzoomd door typisch Engelse heggen, kronkelen naar Seahouses, een kustplaatsje waar de tijd in de jaren zestig stil is gezet. 
 
-Een keer per jaar, in de zomer, wordt het stadje met zijn pastelkleurige huisjes uit zijn mistige slaap gewekt. De nevels uit zee worden tijdelijk verjaagd door een zwak Engels zonnetje. Het dorp loopt vol met vakantiegangers die leven op fish & chips en zuurstokken. Seahouses ruikt dan naar vis en motorolie uit de schepen in de haven, waar kleine vissersbootjes met toeristen af en aan varen. Want net voor de kust, een paar kilometer in de zee, liggen de ruwe diamanten in de kroon van het Engelse natuur: de Farne Eilanden. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b2a4b5-326b-4f91-a26f-40fcd3f9f011.jpg)
+Een keer per jaar, in de zomer, wordt het stadje met zijn pastelkleurige huisjes uit zijn mistige slaap gewekt. De nevels uit zee worden tijdelijk verjaagd door een zwak Engels zonnetje. Het dorp loopt vol met vakantiegangers die leven op fish & chips en zuurstokken. Seahouses ruikt dan naar vis en motorolie uit de schepen in de haven, waar kleine vissersbootjes met toeristen af en aan varen. Want net voor de kust, een paar kilometer in de zee, liggen de ruwe diamanten in de kroon van het Engelse natuur: de Farne Eilanden. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e534f4f0-c12a-4ed9-b1b0-76f7b2cd9887.jpg)
 
-De National Trust, de organisatie die het natuurlijke erfgoed in Engeland beheert, kocht deze rotsen 90 jaar geleden van de industrieel William Armstrong. Er werd na twee jaar touwtrekken 800 pond voor betaald en dat bleek de deal van de eeuw, want sindsdien zijn de eilanden uitgegroeid tot een symbool van goed natuurbeheer. In 1951 werden de eilanden gekenmerkt als 'van bijzonder wetenschappelijk belang' en in 1993 werden ze nationaal natuurreservaat. Sir David Attenborough beschrijft de eilanden als zijn favoriete dierenplek in het Verenigd Koninkrijk. 
+De National Trust, de organisatie die het natuurlijke erfgoed in Engeland beheert, kocht deze rotsen 90 jaar geleden van de industrieel William Armstrong. Er werd na twee jaar touwtrekken 800 pond voor betaald en dat bleek de deal van de eeuw, want sindsdien zijn de eilanden uitgegroeid tot een symbool van goed natuurbeheer. In 1951 werden de eilanden gekenmerkt als 'van bijzonder wetenschappelijk belang' en in 1993 werden ze nationaal natuurreservaat. Sir David Attenborough beschrijft de eilanden als zijn favoriete dierenplek in het Verenigd Koninkrijk. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b2a4b5-326b-4f91-a26f-40fcd3f9f011.jpg)
 
 We schepen in de haven in op één van de scheepjes en tuffen over de onstuimige zee. De rotsen komen dichter -en dichterbij en wat eerst het geruis van de zee leek, wordt een oorverdovend lawaai: het geluid van 150.000 vogels. Overal waar we kijken zijn vogels, vogels en nog eens vogels: op de rotsen, in zee en in de lucht. Ook wij worden bekeken: een grote kolonie van zeehonden kijkt verbaasd naar ons schommelende bootje, een indringer in hun eilandenrijk.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce8c521-5f4e-4893-a08e-7d9628c84af8.jpg)
@@ -49,9 +49,10 @@ Elke dag zetten negen rangers van de National Trust zich voor de eilanden in. He
 
 In het hoogseizoen, wanneer de kuikens net uit hun ei zijn gekropen, moeten de rangers ervoor zorgen dat de 400 paar menselijk voeten die dagelijks uit de boten stappen, niets plattrappen. In de zomer krijgen de eilanden tienduizenden bezoekers over de vloer, maar over het algemeen gaat dat goed. "De mensen houden over het algemeen goed rekening met nestelende zeevogels", aldus Wilkie. "Ze weten dat ze zijn te gast in de habitat van deze vogels en houden zich aan de richtlijnen." De Farne Eilanden zijn daarmee een rots in de branding: zowel voor de natuur als voor de mensen die ervan willen genieten.
 
-## Checklist
+**Checklist**
 
-* Northumberland heeft een aantal prachtige uitgestrekte zandstranden en duinen. Als je van kastelen houdt: Bamburgh is het een van de mooiste kastelen van Engeland, een indrukwekkende ring van torens en kantelen rond een Normandische toren. Handig voor voor de dagen wanneer het weer slecht is, wat uiteraard nogal wel eens kan gebeuren in Engeland. 
+* Northumberland heeft een aantal prachtige uitgestrekte zandstranden en duinen. Als je van kastelen houdt: Bamburgh is het een van de mooiste kastelen van Engeland, een indrukwekkende ring van torens en kantelen rond een Normandische toren. Handig voor voor de dagen wanneer het weer slecht is, wat uiteraard nogal wel eens kan gebeuren in Engeland.
+
 * De kuststrook is ook populair bij surfers, wandelaars met honden, ruiters, vissers en alle anderen die van ruimte en leegte houden.
 
 ****
