@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 'Een safari is een van de mooiste reizen die je in je leven kan maken. Dat weten ook honderdduizenden andere toeristen die de populaire natuurgebieden van Afrika platlopen. De truc is om naar de onbekende parken te gaan: met een beetje geluk heb je die helemaal voor jezelf.'
-datePublished: '2016-04-20T12:42:39.920Z'
-dateModified: '2016-04-20T12:42:19.070Z'
+datePublished: '2016-04-26T14:10:53.126Z'
+dateModified: '2016-04-26T14:00:21.778Z'
 title: Een wildpark voor jezelf in Kenia
 author:
   - name: ''
@@ -20,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: een-wildpark-voor-jezelf-in-kenia/index.html
 _type: Article
 
