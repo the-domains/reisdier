@@ -4,7 +4,7 @@
         <description><![CDATA[Reisdier - Reizen naar wildlife en de vrije natuur]]></description>
         <link>https://thegrid.ai/reisdier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 14:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 14:18:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reisdier/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Orang-oetan gooit met bananen ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/reisdier/orang-oetan-gooit-met-bananen/index.html</link>
             <guid isPermaLink="false">3f2f2ac5-6e66-4ddc-b544-76ef360ad793</guid>
             <pubDate>Tue, 26 Apr 2016 14:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neushoornsafari in Nepal]]></title>
+            <description><![CDATA[<article><h1>Neushoornsafari in Nepal</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/reisdier/neushoornsafari-in-nepal/index.html</link>
+            <guid isPermaLink="false">bbb80fd4-ac12-459b-9600-b2849406f3d5</guid>
+            <pubDate>Tue, 26 Apr 2016 14:18:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[De Farne Eilanden: een vogeloase op de Noordzee]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/reisdier/de-sprookjesnatuur-van-de-filippijnen/index.html</link>
             <guid isPermaLink="false">7b7b4c6d-d64e-4332-9831-7b5ef16a4070</guid>
             <pubDate>Thu, 21 Apr 2016 12:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[De beren van Fins Lapland]]></title>
-            <description><![CDATA[<article><h1>De beren van Fins Lapland</h1><p>Lapland is een van de laatste ongetemde wildernissen van Europa. In de zomer, wanneer de zon niet ondergaat, kun je in National Park Oulanka 24 uur per dag genieten van de ruige natuur. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11036c9a-0fe4-42a3-aa1a-f357414c2a30.jpg"></article>]]></description>
-            <link>https://thegrid.ai/reisdier/de-beren-van-fins-lapland/index.html</link>
-            <guid isPermaLink="false">6d6fbc1d-246d-4982-863f-9846c51f3003</guid>
-            <pubDate>Thu, 21 Apr 2016 12:12:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
