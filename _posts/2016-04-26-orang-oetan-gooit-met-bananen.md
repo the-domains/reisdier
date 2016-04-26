@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T13:59:52.642Z'
-dateModified: '2016-04-26T13:59:37.557Z'
+datePublished: '2016-04-26T14:10:43.519Z'
+dateModified: '2016-04-26T14:04:59.738Z'
 title: "Orang-oetan gooit met bananen\L"
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-26-orang-oetan-gooit-met-bananen.md
 published: true
+starred: true
 url: orang-oetan-gooit-met-bananen/index.html
 _type: Article
 
