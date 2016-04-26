@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: "De jungle is vol geluiden. Overal klinken prrrtt's, iiiieeew's en toktoktokken. maar dieren zie ik niet. Ik kijk om me heen, zoek, speur, tuur, maar ik ontdek niets. Zelfs een reiger op een tak zie ik pas als de gids hem aanwijst. Hoe doet hij dat? 7 trucs voor wilde dieren spotten in Costa Rica."
-datePublished: '2016-04-15T16:22:55.851Z'
-dateModified: '2016-04-15T16:05:14.316Z'
+datePublished: '2016-04-26T14:11:25.170Z'
+dateModified: '2016-04-26T14:11:18.970Z'
 title: 7 tips om dieren te spotten
 author: []
 sourcePath: _posts/2016-04-15-7-tips-om-dieren-te-spotten.md
@@ -18,20 +17,21 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: 7-tips-om-dieren-te-spotten/index.html
 _type: Article
 
 ---
 # 7 tips om dieren te spotten
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b98e90d0-e993-45a9-924c-29838d69c60c.jpg)
 
 **De jungle is vol geluiden. Overal klinken prrrtt's, iiiieeew's en toktoktokken. maar dieren zie ik niet. Ik kijk om me heen, zoek, speur, tuur, maar ik ontdek niets. Zelfs een reiger op een tak zie ik pas als de gids hem aanwijst. Hoe doet hij dat? 7 trucs voor wilde dieren spotten in Costa Rica.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b98e90d0-e993-45a9-924c-29838d69c60c.jpg)
 
 Hoe kan het dat een gids een reiger op een tak ziet zitten en ik niet? Zoals je misschien wel weet zijn reigers best grote vogels, ook in Costa Rica. Heb ik een bril nodig? Zou mijn gids soms laserogen hebben? Bezit hij bijzondere gaven, die alleen gidsen hebben? Niets van dat alles. 
 
 Maar als ik niet eens een reiger op een tak kan spotten, hoe moet ik dan een kikkertje van nog geen centimeter vinden of kleine witte vleermuisjes met varkensneusjes? 
 
-Ricardo werkt al jaren als gids in Tortuguero, een natuurpark in het noordoosten van Costa Rica. Ricardo is bijna iedere dag op pad en kent iedere boom, struik, bloem en dier. Dat is zijn grote voordeel, want hij weet uit ervaring waar hij de dieren kan vinden. Maar voor iedereen die niet in Costa Rica woont, heeft Ricardo een paar handige trucs.  
+Ricardo werkt al jaren als gids in Tortuguero, een natuurpark in het noordoosten van Costa Rica. Ricardo is bijna iedere dag op pad en kent iedere boom, struik, bloem en dier. Dat is zijn grote voordeel, want hij weet uit ervaring waar hij de dieren kan vinden. Maar voor iedereen die niet in Costa Rica woont, heeft Ricardo een paar handige trucs. 
 
 **Truc 1: Ken de vormen.**
 
