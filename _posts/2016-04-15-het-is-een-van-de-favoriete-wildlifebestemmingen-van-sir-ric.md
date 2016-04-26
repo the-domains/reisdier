@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Northumberland is een vreemd stuk Engeland. Het heeft geen grote, beroemde steden of bekende nationale parken. In plaats daarvan heeft het vooral leegte en eindeloze vergezichten over golvende heuvels, die in de lente felgeel kleuren van het lijnzaad. '
-datePublished: '2016-04-26T14:08:39.097Z'
-dateModified: '2016-04-26T14:08:33.675Z'
+datePublished: '2016-04-26T14:14:23.543Z'
+dateModified: '2016-04-26T14:14:12.536Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-15-het-is-een-van-de-favoriete-wildlifebestemmingen-van-sir-ric.md
 published: true
 authors: []
@@ -36,7 +38,7 @@ Een keer per jaar, in de zomer, wordt het stadje met zijn pastelkleurige huisjes
 De National Trust, de organisatie die het natuurlijke erfgoed in Engeland beheert, kocht deze rotsen 90 jaar geleden van de industrieel William Armstrong. Er werd na twee jaar touwtrekken 800 pond voor betaald en dat bleek de deal van de eeuw, want sindsdien zijn de eilanden uitgegroeid tot een symbool van goed natuurbeheer. In 1951 werden de eilanden gekenmerkt als 'van bijzonder wetenschappelijk belang' en in 1993 werden ze nationaal natuurreservaat. Sir David Attenborough beschrijft de eilanden als zijn favoriete dierenplek in het Verenigd Koninkrijk. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b2a4b5-326b-4f91-a26f-40fcd3f9f011.jpg)
 
 We schepen in de haven in op één van de scheepjes en tuffen over de onstuimige zee. De rotsen komen dichter -en dichterbij en wat eerst het geruis van de zee leek, wordt een oorverdovend lawaai: het geluid van 150.000 vogels. Overal waar we kijken zijn vogels, vogels en nog eens vogels: op de rotsen, in zee en in de lucht. Ook wij worden bekeken: een grote kolonie van zeehonden kijkt verbaasd naar ons schommelende bootje, een indringer in hun eilandenrijk.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce8c521-5f4e-4893-a08e-7d9628c84af8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f74c083de2942998ad5a3827fd1e3320720002a6.jpg)
 
 De Farne Eilanden zijn een oase voor 23 soorten zeevogels: stormvogels, noordse sterns, zeekoeten, alken, eidereenden en aalscholvers, en wat landvogels, zoals boerenzwaluwen en bonte kwikstaarten. Maar het lievelingetje van de toeristen zijn de papegaaiduikers. Het clowneske vogeltje doet het hier goed, want vorig jaar -in 2015- werden maar liefst 39.962 broedparen geteld. De puffins blijven hier de hele zomer. Eind juli, begin augustus trekken ze massaal weg. Bijna 80.000 papegaaiduikers zetten dan koers naar het noorden van Schotland en naar IJsland. Daar leven ze negen maanden op zee, voordat ze weer terugkeren om te broeden.
 
